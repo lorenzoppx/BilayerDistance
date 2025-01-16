@@ -1,0 +1,4 @@
+*.json
+*.vasp
+*/
+*.csv
