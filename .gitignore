@@ -2,3 +2,5 @@
 *.vasp
 */
 *.csv
+*.pdf
+*.xlsx
